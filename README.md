@@ -1,7 +1,5 @@
 # Managish
 
-[Website](https://managish.ml)
-
 The Managish (What's Accessible) app was developed as part of a school project to use technology in order to help people with disabilities.
 
 The problem that the app solves is finding and sharing accessible places for people with disabilities in a social network model.
@@ -16,3 +14,8 @@ I came up with the initial idea for a social app, created the design and develop
 I digitally designed the app's UI using Adobe XD.
 I implemented the frontend as a React Native app for iOS and Android, and the backend in Node.js deployed on IBM Cloud. For securing the app and managing users I used the awesome Auth0 service. I used Backblaze B2 for object storage and IBM Cloudant as a database.
 
+
+
+![AppStore 1](/screenshots/appstore-1.png)
+
+![AppStore 2](/screenshots/appstore-2.png)
