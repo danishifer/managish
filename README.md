@@ -14,7 +14,7 @@ I came up with the initial idea for a social app, created the design and develop
 I digitally designed the app's UI using Adobe XD.
 I implemented the frontend as a React Native app for iOS and Android, and the backend in Node.js deployed on IBM Cloud. For securing the app and managing users I used the awesome Auth0 service. I used Backblaze B2 for object storage and IBM Cloudant as a database.
 
-
+[Website](https://managish-app.web.app)
 
 ![AppStore 1](/screenshots/appstore-1.png)
 
